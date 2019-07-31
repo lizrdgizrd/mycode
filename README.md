@@ -1,6 +1,7 @@
 # mycode
 
 Working on a python class. Need to learn how to use git. I'm too old to have this available back when I learned to code.
+Learning version control with git.
 
 ## Getting Started
 
